@@ -1,4 +1,4 @@
-# 🚀 EMS React Dashboard (Employee Management System)
+# EMS React Dashboard (Employee Management System)
 
 A modern, responsive, and clean **Employee Management System (EMS) Admin Dashboard** built with **React.js**, **Vite**, and **Tailwind CSS**.
 
